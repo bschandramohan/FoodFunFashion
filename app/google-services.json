@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643310719691",
+    "firebase_url": "https://foodfunfashion-yc.firebaseio.com",
+    "project_id": "foodfunfashion-yc",
+    "storage_bucket": "foodfunfashion-yc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643310719691:android:fcf60621af261c15a3414e",
+        "android_client_info": {
+          "package_name": "com.divyaheram.apps.foodfunfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643310719691-26j706ucdabc0oo8l3h27ab1ek95geqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIee_RMUV9L8eJLLFkKmJJGxIYwGc1PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643310719691-26j706ucdabc0oo8l3h27ab1ek95geqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
